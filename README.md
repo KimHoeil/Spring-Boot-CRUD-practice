@@ -16,6 +16,7 @@ Spring Boot 3.1을 활용하여 MVC 패턴과 REST API를 구현한 프로젝트
 <img src="/springboot-articles/article-comment.JPG" width="600" height="400"/>
 
 ## 2. 활용도구
+- 웹 서버 : Tomcat
 - 템플릿 엔진 : mustache
 - 데이터베이스 : H2 Database
 - ORM : JPA

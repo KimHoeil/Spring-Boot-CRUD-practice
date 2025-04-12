@@ -1,4 +1,4 @@
-# 게시판 CRUD 및 댓글 CRUD 프로젝트
+# 백엔드 서버 게시판 CRUD 및 댓글 CRUD 프로젝트
 Spring Boot 3.1을 활용하여 MVC 패턴과 REST API를 구현한 프로젝트입니다.
 
 ## 목차
